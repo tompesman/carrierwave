@@ -1,7 +1,5 @@
 # encoding: utf-8
 
-require "fog" unless defined?(::Fog)
-
 module CarrierWave
   module Storage
 
